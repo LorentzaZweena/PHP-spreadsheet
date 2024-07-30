@@ -1,0 +1,16 @@
+{
+    "name": "sayaa/tester_data2",
+    "description": "sistem kasir",
+    "type": "library",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zweena Ariva",
+            "email": "ariva02zweena@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
